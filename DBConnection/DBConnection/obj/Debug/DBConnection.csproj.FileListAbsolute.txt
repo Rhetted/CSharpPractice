@@ -1,0 +1,7 @@
+C:\Users\hzjdz\Desktop\DBConnection\DBConnection\obj\Debug\DBConnection.csprojAssemblyReference.cache
+C:\Users\hzjdz\Desktop\DBConnection\DBConnection\obj\Debug\DBConnection.csproj.CoreCompileInputs.cache
+C:\Users\hzjdz\Desktop\DBConnection\DBConnection\bin\Debug\DBConnection.exe.config
+C:\Users\hzjdz\Desktop\DBConnection\DBConnection\bin\Debug\DBConnection.exe
+C:\Users\hzjdz\Desktop\DBConnection\DBConnection\bin\Debug\DBConnection.pdb
+C:\Users\hzjdz\Desktop\DBConnection\DBConnection\obj\Debug\DBConnection.exe
+C:\Users\hzjdz\Desktop\DBConnection\DBConnection\obj\Debug\DBConnection.pdb
